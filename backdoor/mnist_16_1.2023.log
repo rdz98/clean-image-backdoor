@@ -1,0 +1,3 @@
+Arguments: dataset=mnist,size=16,epoch=1,seed=2023
+Epoch: [0][468/468]	Time 9.074 (4.553)	Loss 12.0698 (12.2902)
+Epoch: [1][468/468]	Time 11.197 (5.581)	Loss 0.9005 (2.6729)

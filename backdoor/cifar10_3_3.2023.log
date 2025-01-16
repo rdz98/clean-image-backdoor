@@ -1,0 +1,5 @@
+Arguments: dataset=cifar10,size=3,epoch=3,seed=2023
+Epoch: [0][390/390]	Time 9.620 (4.851)	Loss 9.2952 (11.9828)
+Epoch: [1][390/390]	Time 10.939 (5.391)	Loss 1.8193 (2.9825)
+Epoch: [2][390/390]	Time 11.409 (5.724)	Loss 1.8751 (1.9340)
+Epoch: [3][390/390]	Time 11.395 (5.705)	Loss 1.9510 (1.9224)
